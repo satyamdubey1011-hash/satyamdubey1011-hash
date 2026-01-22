@@ -60,7 +60,7 @@ I focus on turning messy datasets into clear dashboards and reports that enable 
 ## Contact
 
 - GitHub: [satyamdubey1011-hash](https://github.com/satyamdubey1011-hash)
-- Email: (add your email here)
+- Email: satyamdubey1011@gmail.com
 
 ---
 
